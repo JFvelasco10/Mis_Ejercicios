@@ -15,6 +15,7 @@ public class Operadores {
         int num2 = 0;
         int res = 0;
         System.out.print("Ingrese el primer numero:");
+        
         num1 = input.nextInt();
         System.out.print("Ingrese el segundo numero:");
         num2 = input.nextInt();
