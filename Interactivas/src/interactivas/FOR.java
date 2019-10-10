@@ -61,6 +61,6 @@ public class FOR {
         System.out.println("deseas seguir comprando ingrese si; si no no");
         reusu=sc.next(); 
         }
-        System.out.println("El valor total de la compra es de"+acumulador);
+        System.out.println("El valor total de la compra es de: "+acumulador);
     }
 }
