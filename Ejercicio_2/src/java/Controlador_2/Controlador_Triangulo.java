@@ -1,4 +1,4 @@
-/* Autor: Julian Felipe Velasco Lopez*/
+/* AuAutor: Julian Felipe Velasco Lopez*/
 package Controlador_2;
 
 import Clases.Triangulo;

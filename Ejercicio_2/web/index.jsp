@@ -21,7 +21,7 @@
                             <td><input type="text" name="Valor2"/></td>
                         </tr>
                          <tr>
-                             <center><td><input type="submit" name="opera1" value="HALLAR"/></td></center>     
+                             <td><input type="submit" name="opera1" value="HALLAR"/></td>     
                         </tr>
                     </table></center>
             </form>
