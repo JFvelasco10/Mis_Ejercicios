@@ -1,7 +1,7 @@
-/* AuAutor: Julian Felipe Velasco Lopez*/
+/* Autor: Julian Felipe Velasco Lopez*/
 package Controlador_3;
 
-import Clases.Numero;
+
 import java.io.IOException;
 import java.io.PrintWriter;
 import javax.servlet.ServletException;
@@ -18,9 +18,14 @@ public class Controlador_Numero extends HttpServlet {
         response.setContentType("text/html;charset=UTF-8");
         try (PrintWriter out = response.getWriter()) {
            
-            Numero Num = new Numero();
-          
-            out.print("El numero: " + Num.Numero + Num.numerito);
+            int N = Integer.parseInt(request.getParameter("Valor1"));
+            
+       for (int x = 1; x <= N; ++x) {
+           
+         out.println("<br>" + "Numero:" + x);
+}
+
+
         }
     }
 
