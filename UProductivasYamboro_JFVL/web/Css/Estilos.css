@@ -1,0 +1,70 @@
+/* Autor: Julian Felipe Velasco Lopez */
+body{
+    padding: 50px;
+    font: oblique bold 150% cursive;
+    webkit-background-size: cover;
+    moz-background-size: cover;
+    o-background-size: cover;
+    background-size: cover;
+    color: #ffffff;
+}
+
+.btn1{
+    height: 38px;
+    background:#A1A1A1;
+    padding-left:20px;
+    padding-right:20px;
+    color: #ffffff;
+    border: 2px solid #000000;
+    
+}
+
+input{
+    width: 100%;
+    height: 25px;
+    border: 2px solid #000000;
+    margin-bottom: 5px;
+}
+
+#txt1{
+    color: #ffffff;
+}
+
+#txt2{
+    color: #ffffff; 
+}
+
+#txt3{
+    color: #ffffff; 
+}
+
+#txt7{
+    color: #ffffff;
+}
+
+hr{
+    border: 2px solid #ffffff;
+    width:1800px;
+}
+
+h3{
+    color: #000000;
+}
+
+
+
+#tab{
+    border: solid #000000;
+}
+
+table thead {
+  color: #fff;
+  background-color: #000000;
+}
+
+p{
+    color: #ffffff;
+}
+.h{
+    background-color: #ffffff;
+}
